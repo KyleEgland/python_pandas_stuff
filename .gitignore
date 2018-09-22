@@ -104,6 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # repo specific ignores
-.csv
-.xls
-.xlsx
+*.csv
+*.xls
+*.xlsx
